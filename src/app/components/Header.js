@@ -8,7 +8,7 @@ const Header = () => {
         <header className={styles.main_header}>
             <div className={styles.navbar_brand}>
                 <Link href="/">
-                    <Image src="/logo.webp" alt="Logo" width={240} height={50} quality={75}></Image>
+                    <Image src="/logo.png" alt="Logo" width={210} height={45} quality={75}></Image>
                 </Link>
             </div>
             <Nav />
