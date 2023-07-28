@@ -17,13 +17,13 @@ const ContactCard = () => {
                             <i><MdVoiceChat /></i>
                             <h2>Live Chat</h2>
                             <p className={styles.last_para}>Weekdays: 9 AM — 6 PM ET</p>
-                            <Link href=""><p>Chat Now -&gt;</p></Link>
+                            <Link href="#"><p>Chat Now -&gt;</p></Link>
                         </div>
                         <div className={styles.grid_card}>
                             <i><MdForum /></i>
                             <h2>Community Forum</h2>
                             <p className={styles.last_para}>Highly Active Community Forum</p>
-                            <Link href=""><p>Ask The Community -&gt;</p></Link>
+                            <Link href="#"><p>Ask The Community -&gt;</p></Link>
 
                         </div>
                     </div>
