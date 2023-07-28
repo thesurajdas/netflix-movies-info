@@ -9,7 +9,7 @@ const mulish = Mulish({
 })
 
 export const metadata = {
-  title: 'Blogwaping',
+  title: 'MovieFlix',
   description: 'This is the list of the movies.',
 }
 
