@@ -13,7 +13,7 @@ const MovieCard = (curElem) => {
                 <div className={styles.card_data}>
                     <h2>{title}</h2>
                     <p>{`${synopsis.substring(0, 65)}...`}</p>
-                    <Link href={`${type}/${id}`}>
+                    <Link href={`movies/${id}`}>
                         <button>Read More</button>
                     </Link>
                 </div>
